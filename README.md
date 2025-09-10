@@ -15,9 +15,8 @@ A passionate software engineer from India
 <a href="https://www.instagram.com/your-insta" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40" width="40" /></a>
 <a href="https://leetcode.com/your-leetcode" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/your-codechef" target="blank">
-  <img src="./assets/icons/codechef.png" alt="codechef" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef"/>
 </a>
-
 <a href="mailto:aryan.yourmail@example.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" height="40" width="40" /></a>
 </p>  
 
