@@ -1,16 +1,15 @@
-# Hi 👋, I'm Aryan Gupta
+<h1 align="center">**Hi 👋, I'm Aryan Gupta**</h1>  
+<h3 align="center">A passionate software engineer..</h3>  
 
-A passionate software engineer from India  
-
-- 🔭 I’m currently working on **College Canteen System**  
-- 🌱 I’m currently learning **Full Stack Development, Cloud Computing, and System Design**  
-- 💬 Ask me about **Java, C++, Data Structures & Algorithms, Web Development**  
+- 💻 Passionate about building scalable **web applications and solving real-world problems**   
+- 🚀 Exploring new technologies and always eager to **learn and innovate**
+- 💬 Ask me about **Java, C++, Data Structures & Algorithms, Ful,l Stack Development**  
 - ⚡ Fun fact: **I love turning ideas into real projects!**  
 
 ---
 
 ## 🌐 Connect with me  
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40" height="40" style="margin-right:10px;"/>
 </a>
