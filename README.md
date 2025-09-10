@@ -13,16 +13,16 @@
 <a href="https://www.linkedin.com/in/ag-aryangupta/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40" height="40" style="margin-right:10px;"/>
 </a>
-<a href="https://www.instagram.com/your-instagram" target="_blank">
+<a href="https://www.instagram.com/_.ary_an_/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40" style="margin-right:10px;"/>
 </a>
-<a href="https://leetcode.com/your-leetcode" target="_blank">
+<a href="https://leetcode.com/u/agaryangupta/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="margin-right:10px;"/>
 </a>
-<a href="mailto:yourmail@gmail.com" target="_blank">
+<a href="agaryangupta123@gmail.com" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40" style="margin-right:10px;"/>
 </a>
-<a href="https://www.facebook.com/your-facebook" target="_blank">
+<a href="https://www.facebook.com/aryan.gupta.929809/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40"/>
 </a>
 </p>
