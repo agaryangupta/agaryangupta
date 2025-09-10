@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aryan  
+# Hi 👋, I'm Aryan Gupta
 
 A passionate software engineer from India  
 
@@ -11,11 +11,21 @@ A passionate software engineer from India
 
 ## 🌐 Connect with me  
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
-<a href="https://www.instagram.com/your-insta" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40" width="40" /></a>
-<a href="https://leetcode.com/your-leetcode" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40" width="40" /></a>
-<a href="mailto:aryan.yourmail@example.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" height="40" width="40" /></a>
-<a href="https://www.facebook.com/your-facebook" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/your-linkedin" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="vertical-align:middle;"/>
+</a>
+<a href="https://www.instagram.com/your-insta" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" width="40" height="40" style="vertical-align:middle;"/>
+</a>
+<a href="https://leetcode.com/your-leetcode" target="blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40" style="vertical-align:middle;"/>
+</a>
+<a href="mailto:aryan.yourmail@example.com" target="blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" width="40" height="40" style="vertical-align:middle;"/>
+</a>
+<a href="https://www.facebook.com/your-facebook" target="blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" width="40" height="40" style="vertical-align:middle;"/>
+</a>
 </p>  
 
 ---
