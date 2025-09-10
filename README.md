@@ -41,4 +41,4 @@ A passionate software engineer from India
 ---
 
 ## 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agaryangupta&layout=compact)
