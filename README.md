@@ -1,22 +1,22 @@
-# Hi 👋, I'm Aryan
+# Hi 👋, I'm Aryan  
 
 A passionate software engineer from India  
 
-- 🔭 I’m currently working on a **College Canteen System**  
+- 🔭 I’m currently working on **College Canteen System**  
 - 🌱 I’m currently learning **Full Stack Development, Cloud Computing, and System Design**  
-- 💬 Ask me about **Java, C++, Data Structures & Algorithms, and Web Development**  
+- 💬 Ask me about **Java, C++, Data Structures & Algorithms, Web Development**  
 - ⚡ Fun fact: **I love turning ideas into real projects!**  
 
 ---
 
 ## 🌐 Connect with me  
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://www.instagram.com/your-insta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
+<a href="https://www.instagram.com/your-insta" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40" width="40" /></a>
 <a href="https://leetcode.com/your-leetcode" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/your-codechef" target="blank"><img align="center" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/91f013b6b7d17f7ed3bbdd2e4f0d8c65.png" alt="codechef" height="40" width="40" /></a>
-<a href="mailto:aryan.yourmail@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="40" width="40" /></a>
-</p>
+<a href="mailto:aryan.yourmail@example.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" height="40" width="40" /></a>
+</p>  
 
 ---
 
@@ -36,15 +36,9 @@ A passionate software engineer from India
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="aws" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-</p>
+</p>  
 
 ---
 
 ## 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-
-## 📈 GitHub Stats  
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
