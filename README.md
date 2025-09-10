@@ -52,8 +52,7 @@
 
   <!-- Extra Fields (custom icons since devicon doesn’t have them) -->
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="dsa" width="40" height="40"/> 
-  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103865.png" alt="data science" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103865.png" alt="data science" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="powerbi" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="40"/> 
   <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="ai" width="40" height="40"/> 
