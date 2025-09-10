@@ -1,5 +1,5 @@
 # Hi 👋, I'm Aryan Gupta 
-A passionate software engineer
+<h1>A passionate software engineer..</h2>
 
 - 💻 Passionate about building scalable **web applications and solving real-world problems**   
 - 🚀 Exploring new technologies and always eager to **learn and innovate**
