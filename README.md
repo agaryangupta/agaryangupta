@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Aryan  
+🚀 Passionate Software Engineer from India  
 
-<!--
-**agaryangupta/agaryangupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [College Canteen System](#)  
+- 🌱 I’m learning React, Node.js, and Cloud  
+- 💬 Ask me about **Java, C++, DSA, Web Dev**  
+- 📫 Reach me at: aryan@example.com  
+- ⚡ Fun fact: I love building things that solve real problems!  
 
-Here are some ideas to get you started:
+## 🌐 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚒️ Languages and Tools  
+![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
