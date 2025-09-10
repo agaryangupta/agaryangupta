@@ -10,7 +10,7 @@
 
 # 🌐 Connect with me   
 <p align="left">
-<a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ag-aryangupta/)" target="_blank">
+<a href="https://www.linkedin.com/in/ag-aryangupta/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40" height="40" style="margin-right:10px;"/>
 </a>
 <a href="https://www.instagram.com/your-instagram" target="_blank">
