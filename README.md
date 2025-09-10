@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aryan Gupta</h1>  
-<h3 align="center">A passionate software engineer..</h3>  
+# Hi 👋, I'm Aryan Gupta 
+A passionate software engineer
 
 - 💻 Passionate about building scalable **web applications and solving real-world problems**   
 - 🚀 Exploring new technologies and always eager to **learn and innovate**
@@ -8,8 +8,8 @@
 
 ---
 
-<h2 align="center">🌐 Connect with me</h2>    
-<p align="center">
+# 🌐 Connect with me   
+<p align="left">
 <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40" height="40" style="margin-right:10px;"/>
 </a>
@@ -26,7 +26,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40"/>
 </a>
 </p>
-
 
 ---
 
