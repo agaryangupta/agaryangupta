@@ -11,22 +11,23 @@ A passionate software engineer from India
 
 ## 🌐 Connect with me  
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin" target="blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" style="vertical-align:middle;"/>
+<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40" height="40" style="margin-right:10px;"/>
 </a>
-<a href="https://www.instagram.com/your-insta" target="blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" width="40" height="40" style="vertical-align:middle;"/>
+<a href="https://www.instagram.com/your-instagram" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40" style="margin-right:10px;"/>
 </a>
-<a href="https://leetcode.com/your-leetcode" target="blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40" style="vertical-align:middle;"/>
+<a href="https://leetcode.com/your-leetcode" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="margin-right:10px;"/>
 </a>
-<a href="mailto:aryan.yourmail@example.com" target="blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" width="40" height="40" style="vertical-align:middle;"/>
+<a href="mailto:yourmail@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40" style="margin-right:10px;"/>
 </a>
-<a href="https://www.facebook.com/your-facebook" target="blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" width="40" height="40" style="vertical-align:middle;"/>
+<a href="https://www.facebook.com/your-facebook" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40"/>
 </a>
-</p>  
+</p>
+
 
 ---
 
