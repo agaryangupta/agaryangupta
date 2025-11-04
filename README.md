@@ -3,7 +3,7 @@
 
 - 💻 Passionate about building scalable **web applications and solving real-world problems**   
 - 🚀 Exploring new technologies and always eager to **learn and innovate**
-- 💬 Ask me about **Java, C++, Data Structures & Algorithms, Full Stack Development(MERN)**  
+- 💬 Ask me about **Java, C++, Data Structures & Algorithms, Full Stack Development (MERN)**  
 - ⚡ Fun fact: **I love turning ideas into real projects!**  
 
 ---
