@@ -62,11 +62,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
 </p>
-
-
-
-
----
-
-## 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agaryangupta&layout=compact)
